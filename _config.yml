@@ -1,0 +1,8 @@
+title: Blind Developers
+description: 30 Creators of Apps While Blind or Low Vision
+author: Jamal Mazrui
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
