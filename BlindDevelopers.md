@@ -28,7 +28,7 @@ keywords:
 
 # Blind Developers
 
-This directory lists 39 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
+This directory lists 40 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
 
@@ -52,6 +52,7 @@ This directory is English-language in scope: it relies on documentation, code, a
 - Developers (alphabetical by last name):
   - [Tony Acosta](#dev-acosta)
   - [Nicholas Adams](#dev-adams)
+  - [Gianluca Apollaro](#dev-apollaro)
   - [Taylor Arndt](#dev-arndt)
   - [Jeff Bishop](#dev-bishop)
   - [John Boyer](#dev-boyer)
@@ -108,6 +109,14 @@ Profiles: [Documentation](https://nmfa.github.io/BrailleKeyboard-Documentation/)
 
 #### [BrailleKeyboard](https://apps.microsoft.com/detail/9mvrrhnbb5xc) {#braillekeyboard}
 A Windows app that turns a standard keyboard into a UEB braille keyboard: the F, D, and S keys and the J, K, and L keys map to the six braille dots, and each chord generates ordinary text anywhere in the operating system. It supports contractions and custom wordsign dictionaries.
+
+### Gianluca Apollaro {#dev-apollaro}
+
+An Italian developer, described by the Italian Union of the Blind and Partially Sighted as blind, who has built music-writing software for blind musicians.
+Profiles: [GitHub](https://github.com/GianlucaApollaro).
+
+#### [GitHub Downloader](https://github.com/GianlucaApollaro/Github-Downloader) {#github-downloader}
+A Windows desktop app, built with Python and wxPython, for searching a GitHub repository's releases and downloading their files, designed for NVDA and JAWS, with keyboard shortcuts and English, Italian and Spanish interfaces. Its README says it was built with AI-assisted "vibe coding".
 
 ### Taylor Arndt {#dev-arndt}
 
