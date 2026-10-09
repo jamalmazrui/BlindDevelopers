@@ -26,8 +26,6 @@ keywords:
   - open source
 ---
 
-# Blind Developers
-
 This directory lists 40 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
