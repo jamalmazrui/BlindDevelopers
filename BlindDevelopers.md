@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Blind Developers"
 subtitle: "39 Creators of Apps While Blind or Low Vision"
 author: "Jamal Mazrui"
