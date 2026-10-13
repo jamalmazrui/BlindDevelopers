@@ -1,6 +1,6 @@
 ---
 title: "Blind Developers"
-subtitle: "39 Creators of Apps While Blind or Low Vision"
+subtitle: "A Directory of 40 Creators of Apps While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
 version: "v2.25.2"
@@ -88,7 +88,14 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [Christopher "Q" Toth](#dev-toth)
   - [Sam Tupy](#dev-tupy)
   - [Quinton Williams](#dev-williams)
+- [By the Numbers](#by-the-numbers)
 - [Projects by Platform](#projects-by-platform)
+
+## By the Numbers {#by-the-numbers}
+
+- Between them, the 40 developers have 97 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- 48% of the developers have one app listed; 5 developers have five or more.
+- 52 apps run on Windows, the most common platform.
 
 ## Developers (Alphabetical by Last Name)
 
