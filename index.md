@@ -1,9 +1,9 @@
 ---
 title: "Blind Developers"
-subtitle: "A Directory of 40 Creators of Apps While Blind or Low Vision"
+subtitle: "A Directory of 42 Creators of Apps While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v2.25.2"
+version: "v2.26.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -26,7 +26,7 @@ keywords:
   - open source
 ---
 
-This directory lists 40 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
+This directory lists 42 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
 
@@ -61,6 +61,7 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [Michael Doise](#dev-doise)
   - [Liam Erven](#dev-erven)
   - [Kelly Ford](#dev-ford)
+  - [Sriram Ganesh](#dev-ganesh)
   - [Bryan Garaventa](#dev-garaventa)
   - [Tony Gebhard](#dev-gebhard)
   - [Quin Gillespie](#dev-gillespie)
@@ -81,6 +82,7 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [André Polykanine](#dev-polykanine)
   - [T. V. Raman](#dev-raman)
   - [Derek Riemer](#dev-riemer)
+  - [Marco Salsiccia](#dev-salsiccia)
   - [Saqib Shaikh](#dev-shaikh)
   - [Tyler Spivey](#dev-spivey)
   - [James "Jamie" Teh](#dev-teh)
@@ -93,8 +95,8 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 40 developers have 97 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
-- 48% of the developers have one app listed; 5 developers have five or more.
+- Between them, the 42 developers have 99 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Half the developers have one app listed, and 5 have five or more.
 - 52 apps run on Windows, the most common platform.
 
 ## Developers (Alphabetical by Last Name)
@@ -239,6 +241,14 @@ A clutter-free iOS weather app built by and for VoiceOver users, with a “Weath
 
 #### [Image Description Toolkit](https://github.com/kellylford/Image-Description-Toolkit) {#image-description-toolkit}
 A batch image description tool that describes whole folders of images with a choice of vision models, local through Ollama or online through OpenAI, Claude or Apple Intelligence, and includes a chat client built for keyboard and screen reader use.
+
+### Sriram Ganesh {#dev-ganesh}
+
+The founder, CEO and developer of Lumin, who has cone-rod dystrophy, a progressive loss of central vision, and built Lumin from his own experience of working with low vision.
+Profiles: [LinkedIn](https://www.linkedin.com/in/sriramganesh/), [Website](https://www.trylumin.ai/).
+
+#### [Lumin](https://apps.apple.com/app/id6762822189) {#lumin}
+A voice-first email assistant for iPhone, designed alongside the blind and low-vision community to work with VoiceOver: it finds, reads, summarizes and answers email by voice.
 
 ### Bryan Garaventa {#dev-garaventa}
 
@@ -442,6 +452,13 @@ Profiles: [GitHub](https://github.com/derekriemer), [LinkedIn](https://www.linke
 #### [NVDA add-ons](https://github.com/derekriemer) {#riemer-addons}
 Roughly two dozen NVDA add-ons plus contributions to NVDA core.
 
+### Marco Salsiccia {#dev-salsiccia}
+
+A blind coder, tactile artist and accessibility advisor who has coached teams at Lyft, Deque and Intuit, now advises OpenAI, and builds native iPhone apps with AI coding tools.
+
+#### [Intersector](https://apps.apple.com/us/app/intersector/id6777891238) {#intersector}
+An iPhone app, with an Apple Watch companion, that announces nearby and upcoming street intersections with their distance and direction for VoiceOver users, including a Point and Scan mode and Siri Shortcuts.
+
 ### Saqib Shaikh {#dev-shaikh}
 
 Microsoft software engineer who founded and leads the Seeing AI project.
@@ -553,6 +570,8 @@ Each project links back to its full entry above, ordered by title. Projects that
 ### iOS apps (iPhone and iPad)
 - [ACB Link (Doise)](#acb-link)
 - [Clipman (Louis)](#clipman)
+- [Intersector (Salsiccia)](#intersector)
+- [Lumin (Ganesh)](#lumin)
 - [Paperback, awaiting App Store review (Gillespie)](#paperback)
 - [Perspective Intelligence (Doise)](#perspective-intelligence)
 - [ReVision Fitness (Merren)](#revision-fitness)
