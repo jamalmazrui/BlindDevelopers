@@ -1,6 +1,7 @@
 ---
 title: "Blind Developers"
 subtitle: "A Directory of 42 Creators of Apps While Blind or Low Vision"
+description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "October 2026"
 version: "v2.26.0"
