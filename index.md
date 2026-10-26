@@ -1,10 +1,10 @@
 ---
 title: "Blind Developers"
-subtitle: "A Directory of 42 Creators of Apps While Blind or Low Vision"
+subtitle: "A Directory of 43 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v2.26.0"
+version: "v2.28.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -27,7 +27,7 @@ keywords:
   - open source
 ---
 
-This directory lists 42 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
+This directory lists 43 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
 
@@ -77,6 +77,7 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [Jamal Mazrui](#dev-mazrui)
   - [J.J. Meddaugh](#dev-meddaugh)
   - [Tyler Merren](#dev-merren)
+  - [Deenadayalan Moodley](#dev-moodley)
   - [Mark Morad](#dev-morad)
   - [Marc Mulcahy](#dev-mulcahy)
   - [Ken Perry](#dev-perry)
@@ -96,9 +97,9 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 42 developers have 99 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Between them, the 43 developers have 101 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
 - Half the developers have one app listed, and 5 have five or more.
-- 52 apps run on Windows, the most common platform.
+- 53 apps run on Windows, the most common platform.
 
 ## Developers (Alphabetical by Last Name)
 
@@ -172,6 +173,9 @@ Profiles: [Website](https://tristenb.com/).
 
 #### [ART (Accessibility Reporting Tool)](https://github.com/ripplelearning/ART) {#art}
 An open-source, local-first workspace for documenting accessibility findings, managing standards such as WCAG 2.1 and 2.2, and exporting reports to Word, Excel, PDF, and HTML, built for full keyboard and screen reader use; she conceived and built it with AI-assisted development.
+
+#### [FRAME PDF Studio](https://github.com/ripplelearning/Frame-PDF-Studio) {#frame-pdf-studio}
+A free tool for fixing an inaccessible PDF yourself, in the browser, adding headings, table tags, a sensible reading order and fillable form fields, with no AI in the loop and nothing leaving your computer; built for blind screen reader users, with its code written by an AI.
 
 ### Matt Campbell {#dev-campbell}
 
@@ -398,6 +402,14 @@ Profiles: [LinkedIn](https://www.linkedin.com/in/tyler-merren-99572366/)
 #### [ReVision Fitness](https://play.google.com/store/apps/details?id=com.revision.fitness) {#revision-fitness}
 An audio fitness program for iPhone and Android whose exercises, workouts, and equipment guides are described for blind and low-vision users with clock-face directions and step-by-step instructions; built with a Holman Prize.
 
+### Deenadayalan Moodley {#dev-moodley}
+
+Materials Production and Access Technology Coordinator at the University of South Africa (UNISA) in Pretoria, a long-time NVDA user, and the maker of ScanMaster, built over four months in 2026.
+Profiles: [GitHub](https://github.com/DeenadayalanMoodley).
+
+#### [ScanMaster](https://github.com/DeenadayalanMoodley/ScanMaster-releases/releases) {#scanmaster}
+A word processor, scanner and OCR studio, document reader and audiobook maker for Windows, built from the start for screen readers and the keyboard, with an AI assistant that proofreads, describes pictures and tells who is speaking in a story.
+
 ### Mark Morad {#dev-morad}
 
 A developer who lost his sight as a university freshman, then taught himself to program with a screen reader and built an AI accessibility assistant now used by people in dozens of countries.
@@ -551,6 +563,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Quill (Bishop and Arndt)](#quill)
 - [Quill Radio (Bishop)](#quill-radio)
 - [Remote Incident Manager (Campbell)](#rim)
+- [ScanMaster (Moodley)](#scanmaster)
 - [Sensor Readout (Louis)](#sensor-readout)
 - [SIC! (Polykanine)](#sic)
 - [Survive the Wild (Tupy)](#survive-the-wild)
@@ -649,6 +662,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 ### Web services and online tools
 - [ART (Breitenfeldt)](#art)
 - [CAPTCHA Be Gone (Toth)](#captcha-be-gone)
+- [FRAME PDF Studio (Breitenfeldt)](#frame-pdf-studio)
 - [GLOW Accessibility Toolkit (Bishop)](#glow)
 - [NFB 2026 Convention Web App (Meddaugh)](#nfb26)
 - [Start Testing (Arndt)](#start-testing)
@@ -663,12 +677,14 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [2htm (Mazrui)](#app-2htm)
 - [ART (Breitenfeldt)](#art)
 - [BrailleBlaster (Boyer)](#brailleblaster)
+- [FRAME PDF Studio (Breitenfeldt)](#frame-pdf-studio)
 - [GLOW Accessibility Toolkit (Bishop)](#glow)
 - [Image Description Toolkit (Ford)](#image-description-toolkit)
 - [Paperback e-reader (Gillespie)](#paperback)
 - [PlanCake (Polykanine)](#plancake)
 - [QRead e-reader (Toth)](#qread)
 - [Quill (Bishop and Arndt)](#quill)
+- [ScanMaster (Moodley)](#scanmaster)
 
 ### Hardware and tactile devices
 - [Graphiti tactile display (Perry)](#graphiti)
