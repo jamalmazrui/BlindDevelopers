@@ -4,7 +4,7 @@ subtitle: "A Directory of 43 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v2.28.0"
+version: "v2.29.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -97,9 +97,9 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 43 developers have 101 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
-- Half the developers have one app listed, and 5 have five or more.
-- 53 apps run on Windows, the most common platform.
+- Between them, the 43 developers have 125 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Half the developers have one app listed, and 6 have five or more; Andre "Onj" Louis leads with 25.
+- 65 apps run on Windows, the most common platform, and 24 live inside NVDA.
 
 ## Developers (Alphabetical by Last Name)
 
@@ -268,14 +268,17 @@ A library of tested, accessible interface-widget patterns and practical ARIA des
 
 ### Tony Gebhard {#dev-gebhard}
 
-A totally blind musician and assistive technology instructor from Michigan who builds free, keyboard-first tools for screen reader users.
+A totally blind musician and assistive technology instructor from Michigan who builds keyboard-first tools for screen reader users, most of them free, through his TG Studios.
 Profiles: [GitHub](https://github.com/tonygeb23), [LinkedIn](https://www.linkedin.com/in/tonygeb23), [Website](https://tonygebhard.me/).
 
-#### [NVDA Coach](https://github.com/tonygeb23/nvdaCoach-) {#nvda-coach}
-A free NVDA add-on, in the NVDA Add-on Store, that teaches screen reader commands from inside NVDA through 45 guided, hands-on lessons with spoken instructions, hints, and built-in practice forms and web pages; he built it as an assistive technology instructor for beginners and their teachers.
+#### [Word Champion](https://tgstudios.app/word-champion/) {#word-champion}
+A program of five word games, fifty typing lessons, a talking dictionary, and a journal for blind and low-vision learners of any age, speaking through the screen reader or the Windows voice; a paid Windows program, released in October 2026, with a 14-day free trial.
 
 #### [TG Drop Deck](https://github.com/tonygeb23/tg-drop-deck) {#tg-drop-deck}
 A free, MIT-licensed soundboard and playout desk for podcasts, radio, and live shows on Windows and Mac, with eighty sounds on the number row, a crossfading playlist, a processed microphone, recording, and streaming, all built keyboard-first for screen reader users.
+
+#### [NVDA Coach](https://github.com/tonygeb23/nvdaCoach-) {#nvda-coach}
+A free NVDA add-on, in the NVDA Add-on Store, that teaches screen reader commands from inside NVDA through 45 guided, hands-on lessons with spoken instructions, hints, and built-in practice forms and web pages; he built it as an assistive technology instructor for beginners and their teachers.
 
 ### Quin Gillespie {#dev-gillespie}
 
@@ -345,8 +348,11 @@ Improves NVDA access to built-in Windows apps.
 
 ### Andre "Onj" Louis {#dev-louis}
 
-A blind musician, producer, and accessibility advocate from London who builds accessibility-first Windows tools; he was the first blind person to beta-test Native Instruments' Komplete Kontrol accessibility features.
+A blind musician, producer, and accessibility advocate from London who builds accessibility-first tools for Windows, macOS, NVDA, and music hardware; he was the first blind person to beta-test Native Instruments' Komplete Kontrol accessibility features.
 Profiles: [GitHub](https://github.com/OnjLouis), [Website](https://onj.me/)
+
+#### [soundWave](https://github.com/OnjLouis/soundWave/releases) {#soundwave}
+A free NVDA add-on, in the NVDA Add-on Store, that renders clipboard text, typed text, files, or folders to WAV, MP3, FLAC, or M4A audio through the speech synthesizers NVDA supports, with batch processing.
 
 #### [Sensor Readout](https://github.com/OnjLouis/accessible-sensor-readout) {#sensor-readout}
 An accessibility-first hardware monitoring tool that reports a computer's sensor readings, such as temperatures and fan speeds, to screen reader users.
@@ -569,6 +575,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Survive the Wild (Tupy)](#survive-the-wild)
 - [TD Sound Manager (Dash)](#td-sound-manager)
 - [TG Drop Deck (Gebhard)](#tg-drop-deck)
+- [Word Champion (Gebhard)](#word-champion)
 
 ### macOS desktop applications
 - [Clipman (Louis)](#clipman)
@@ -625,6 +632,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [NVDA add-ons (Riemer)](#riemer-addons)
 - [NVDA Coach (Gebhard)](#nvda-coach)
 - [NVDA Remote (Spivey and Toth)](#nvda-remote)
+- [soundWave (Louis)](#soundwave)
 - [StationPlaylist (Joseph Lee)](#stationplaylist)
 - [Tony's Enhancements (Malykh)](#tonys-enhancements)
 - [Windows App Essentials (Joseph Lee)](#windows-app-essentials)
