@@ -1,10 +1,10 @@
 ---
 title: "Blind Developers"
-subtitle: "A Directory of 43 Creators of Apps While Blind or Low Vision"
+subtitle: "A Directory of 44 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v2.29.0"
+version: "v2.30.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -27,7 +27,7 @@ keywords:
   - open source
 ---
 
-This directory lists 43 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
+This directory lists 44 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
 
@@ -55,6 +55,7 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [Taylor Arndt](#dev-arndt)
   - [Jeff Bishop](#dev-bishop)
   - [John Boyer](#dev-boyer)
+  - [Brandon Bracey](#dev-bracey)
   - [Tristen Breitenfeldt](#dev-breitenfeldt)
   - [Matt Campbell](#dev-campbell)
   - [Michael "Mick" Curran](#dev-curran)
@@ -97,9 +98,9 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 43 developers have 125 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
-- Half the developers have one app listed, and 6 have five or more; Andre "Onj" Louis leads with 25.
-- 65 apps run on Windows, the most common platform, and 24 live inside NVDA.
+- Between them, the 44 developers have 131 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Nearly half the developers have one app listed, and 7 have five or more; Andre "Onj" Louis leads with 25.
+- 68 apps run on Windows, the most common platform, and 24 live inside NVDA.
 
 ## Developers (Alphabetical by Last Name)
 
@@ -165,6 +166,20 @@ The open-source braille translator and back-translator, named for Louis Braille,
 
 #### [BrailleBlaster](https://www.brailleblaster.org/) {#brailleblaster}
 A free, cross-platform application for transcribing print documents into well-formatted braille.
+
+### Brandon Bracey {#dev-bracey}
+
+A blind developer from Edmonton, Alberta, who writes for the Canadian Organization of the Blind and DeafBlind and builds screen-reader-first apps by vibe coding, beginning with BlindRSS.
+Profiles: [Double Tap interview](https://doubletaponair.com/blind-rss-vibe-coding-accessible-news-made-simple/), [GitHub](https://github.com/serrebidev).
+
+#### [BlindFB](https://github.com/serrebidev/BlindFB) {#blindfb}
+A screen-reader-friendly Facebook and Messenger client for Windows, macOS, and Linux, still in beta, for reading the feed and notifications, posting, and chatting through native controls instead of the Facebook website; he built it after Facebook left screen reader problems unfixed for years.
+
+#### [BlindTerm](https://github.com/serrebidev/BlindTerm/releases) {#blindterm}
+A Windows terminal for NVDA and JAWS users that speaks command output and makes full-screen programs, AI coding agents, and text-based MUD games usable.
+
+#### [BlindRSS](https://github.com/serrebidev/BlindRSS) {#blindrss}
+A free, MIT-licensed RSS and podcast client for Windows, macOS, and Linux that reads feeds, full articles, and YouTube videos, plays and casts audio, and works with hosted feed services, with editions for Android and for iPhone and iPad.
 
 ### Tristen Breitenfeldt {#dev-breitenfeldt}
 
@@ -554,6 +569,9 @@ A customizable talking and chiming clock for iPhone and Mac, compatible with Ste
 Each project links back to its full entry above, ordered by title. Projects that span platforms appear in more than one group. For every app by these developers, grouped by platform, category, and developer, see [Blind Apps](https://jamalmazrui.github.io/BlindApps/).
 
 ### Windows desktop applications
+- [BlindFB (Bracey)](#blindfb)
+- [BlindRSS (Bracey)](#blindrss)
+- [BlindTerm (Bracey)](#blindterm)
 - [BrailleKeyboard (Adams)](#braillekeyboard)
 - [Clipman (Louis)](#clipman)
 - [FM-DX Servers Lister (Dash)](#fmdx-servers-lister)
@@ -578,6 +596,8 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Word Champion (Gebhard)](#word-champion)
 
 ### macOS desktop applications
+- [BlindFB (Bracey)](#blindfb)
+- [BlindRSS (Bracey)](#blindrss)
 - [Clipman (Louis)](#clipman)
 - [OSARA (Teh)](#osara)
 - [Paperback (Gillespie)](#paperback)
@@ -618,6 +638,8 @@ Each project links back to its full entry above, ordered by title. Projects that
 
 ### Linux and cross-platform desktop
 - [AccessKit (Campbell)](#accesskit)
+- [BlindFB (Bracey)](#blindfb)
+- [BlindRSS (Bracey)](#blindrss)
 - [BrailleBlaster (Boyer)](#brailleblaster)
 - [Clipman (Louis)](#clipman)
 - [Emacspeak (Raman)](#emacspeak)
@@ -649,6 +671,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [AccDC API (Garaventa)](#accdc)
 - [AccDC Technical Style Guide (Garaventa)](#tsg)
 - [AccessKit (Campbell)](#accesskit)
+- [BlindTerm (Bracey)](#blindterm)
 - [Codestats (Gillespie)](#codestats)
 - [extCheck (Mazrui)](#extcheck)
 - [Image Description Toolkit (Ford)](#image-description-toolkit)
