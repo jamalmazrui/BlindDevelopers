@@ -4,7 +4,7 @@ subtitle: "A Directory of 45 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v2.31.0"
+version: "v2.32.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -99,9 +99,9 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 45 developers have 133 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
-- Nearly half the developers have one app listed, and 7 have five or more; Andre "Onj" Louis leads with 25.
-- 68 apps run on Windows, the most common platform, and 24 live inside NVDA.
+- Between them, the 45 developers have 175 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Nearly half the developers have one app listed, and 8 have five or more; Doug Lee leads with 43, then Andre "Onj" Louis with 25.
+- 70 apps run on Windows, the most common platform; 40 are JAWS scripts and 27 live inside NVDA.
 
 ## Developers (Alphabetical by Last Name)
 
@@ -342,11 +342,137 @@ A fully accessible video and audio editor for iPhone and Android that trims, mer
 
 ### Doug Lee {#dev-dlee}
 
-Assistive-technology programmer known for a large catalog of JAWS scripts and cross-platform Python tools.
-Profiles: [Website](https://www.dlee.org/).
+A blind assistive-technology programmer whose JAWS scripts cover dozens of applications, from Microsoft Teams, Slack and Discord to ham radio software, and who also writes NVDA add-ons and cross-platform Python tools such as the TeamTalk Commander. His scripts share a common design, documented on his site: multi-key command sequences you can explore by Tab, a script revision number at Insert+Q, and installers that reach every JAWS version and language.
+Profiles: [Website](https://dlee.org/).
 
-#### [TTCom](https://www.dlee.org/) {#ttcom}
+#### [3CX JAWS Scripts](https://dlee.org/3cx/) {#dlee-3cx}
+JAWS scripts for the 3CX telephony app.
+
+#### [Adobe Connect JAWS Scripts](https://dlee.org/adobeconnect/) {#dlee-adobeconnect}
+JAWS scripts for the Adobe Connect meeting platform.
+
+#### [Alexa JAWS Scripts](https://dlee.org/alexa/) {#dlee-alexa}
+JAWS scripts for the Amazon Alexa app for Windows 10.
+
+#### [Audible JAWS Scripts](https://dlee.org/audible/) {#dlee-audible}
+JAWS scripts for the Audible app for Windows 10.
+
+#### [Audir (Audio Director Manager)](https://dlee.org/audir/) {#dlee-audir}
+Creates, launches and manages the programs that direct or repeat audio among devices and files, chiefly Virtual Audio Cable and SoX; formerly called Vacro.
+
+#### [Bookmark Tree (bmt)](https://dlee.org/bmt/) {#dlee-bmt}
+Combines the bookmarks of several browsers into one filterable tree, and opens a chosen bookmark in the default browser or another, private if wanted.
+
+#### [BX, the JAWS Toolbox](https://dlee.org/bx/) {#dlee-bx}
+A toolbox of JAWS scripts for examining and working with what JAWS sees in any application.
+
+#### [Dell Audio JAWS Scripts](https://dlee.org/dell/) {#dlee-dell}
+JAWS scripts for Dell's audio application.
+
+#### [Dell Update and Dell Command Update JAWS Scripts](https://dlee.org/dcu/) {#dlee-dcu}
+JAWS scripts for Dell Update and Dell Command Update.
+
+#### [Discord JAWS Scripts](https://dlee.org/discord/) {#dlee-discord}
+JAWS scripts for the Discord chat app.
+
+#### [Dixa JAWS Scripts](https://dlee.org/dixa/) {#dlee-dixa}
+JAWS scripts for the Dixa customer service platform.
+
+#### [Dropbox JAWS Scripts](https://dlee.org/dropbox/) {#dlee-dropbox}
+JAWS scripts for the Dropbox app.
+
+#### [GoldWave JAWS Scripts](https://dlee.org/goldwave/) {#dlee-goldwave}
+JAWS scripts for the GoldWave audio editor, hosted on his site and mostly written by others.
+
+#### [Ham Radio JAWS Scripts](https://dlee.org/ham/) {#dlee-ham}
+JAWS scripts and resources for blind ham radio operators, for OpenGD77CPS, NetLogger, RT Systems RadioEngine, iaxRpt and Winlink Express.
+
+#### [Hayaemon JAWS Scripts](https://dlee.org/hayaemon/) {#dlee-hayaemon}
+JAWS scripts for the Hayaemon audio player.
+
+#### [JAWS Alert Manager (JAM)](https://dlee.org/jam/) {#dlee-jam}
+JAWS scripts for saving, silencing at will and reviewing Windows and application alerts, with a way to examine websites without running their code.
+
+#### [JGauge](https://dlee.org/jgauge/) {#dlee-jgauge}
+JAWS scripts that report progress bar changes with sounds, for JAWS 12 and later.
+
+#### [ListTbl](https://dlee.org/listtbl/) {#dlee-listtbl}
+JAWS scripts that bring the table navigation commands to list view controls in any application, so a column can be scanned without the JAWS cursor.
+
+#### [MicroSIP JAWS Scripts](https://dlee.org/microsip/) {#dlee-microsip}
+JAWS scripts for the MicroSIP softphone.
+
+#### [Microsoft Teams JAWS Scripts](https://dlee.org/teams/) {#dlee-teams}
+JAWS scripts for Microsoft Teams.
+
+#### [Movies and TV JAWS Scripts](https://dlee.org/mtv/) {#dlee-mtv}
+JAWS scripts for the Movies and TV app for Windows 10.
+
+#### [MuseScore Scripts](https://dlee.org/musescore3/) {#dlee-musescore}
+JAWS scripts for the MuseScore music notation program.
+
+#### [Ramblio Scripts](https://dlee.org/ramblio/) {#dlee-ramblio}
+Scripts for the Ramblio social media platform that make audio posts quicker to skim.
+
+#### [Rig Manager JAWS Scripts](https://dlee.org/rig/) {#dlee-rig}
+JAWS scripts for the Rig Manager amateur radio software.
+
+#### [RS Games Scripts](https://dlee.org/rsgames/) {#dlee-rsgames}
+Scripts for RS Games that shorten messages, add keystrokes and resolve focus issues.
+
+#### [scrfix](https://dlee.org/scrfix/) {#dlee-scrfix}
+A small C program that lets screen(1) run under the Windows Subsystem for Linux, version 1, without root.
+
+#### [Slack JAWS Scripts](https://dlee.org/slack/) {#dlee-slack}
+JAWS scripts for the Slack app.
+
+#### [TeamSpeak JAWS Scripts](https://dlee.org/teamspeak/) {#dlee-teamspeak}
+JAWS scripts for the TeamSpeak voice chat client.
+
+#### [TeamSpeak NVDA Add-on](https://dlee.org/teamspeak/NVDA/) {#dlee-teamspeak-nvda}
+An NVDA add-on for the TeamSpeak voice chat client.
+
+#### [TeamTalk JAWS Scripts and Tools](https://dlee.org/teamtalk/) {#dlee-teamtalk}
+JAWS scripts for TeamTalk, with the TTConv configuration converter, the Taff audio file fixer and other tools.
+
+#### [TeamViewer JAWS Scripts](https://dlee.org/teamviewer/) {#dlee-teamviewer}
+JAWS scripts for TeamViewer remote control.
+
+#### [TTCom (TeamTalk Commander)](https://dlee.org/teamtalk/) {#ttcom}
 A cross-platform, command-line TeamTalk client written in Python.
+
+#### [Tween and OpenTween Scripts](https://dlee.org/tween/) {#dlee-tween}
+JAWS scripts, an NVDA add-on and resources for the Tween and OpenTween clients.
+
+#### [Twitch JAWS Scripts](https://dlee.org/twitch/) {#dlee-twitch}
+JAWS scripts for Twitch.
+
+#### [Unigram JAWS Scripts](https://dlee.org/unigram/) {#dlee-unigram}
+JAWS scripts for Unigram, a reasonably accessible Telegram client for Windows.
+
+#### [Virtual Audio Cable JAWS Scripts](https://dlee.org/vac/) {#dlee-vac}
+JAWS scripts for the Virtual Audio Cable applications.
+
+#### [Virtual Audio Cable NVDA Add-on](https://dlee.org/vac/NVDA/) {#dlee-vac-nvda}
+An NVDA add-on for the Virtual Audio Cable applications.
+
+#### [Visual Studio Code JAWS Scripts](https://dlee.org/vscode/) {#dlee-vscode}
+Simple JAWS scripts for Visual Studio Code, written with Jeff Bishop.
+
+#### [VLC Media Player JAWS Scripts](https://dlee.org/vlc/) {#dlee-vlc}
+JAWS scripts for VLC Media Player.
+
+#### [Weather Watcher Live JAWS Scripts](https://dlee.org/ww/) {#dlee-ww}
+JAWS scripts for Weather Watcher Live.
+
+#### [WhatsApp JAWS Scripts](https://dlee.org/whatsapp/) {#dlee-whatsapp}
+JAWS scripts for the WhatsApp app and website, for the version released in November 2025.
+
+#### [Wireshark JAWS Scripts](https://dlee.org/wireshark/) {#dlee-wireshark}
+JAWS scripts for the Wireshark network analyzer, for JAWS 2018 or later.
+
+#### [YouTube JAWS Scripts](https://dlee.org/youtube/) {#dlee-youtube}
+JAWS scripts for YouTube, for JAWS 17 or later.
 
 ### Joseph Lee {#dev-jlee}
 
@@ -581,9 +707,11 @@ A customizable talking and chiming clock for iPhone and Mac, compatible with Ste
 Each project links back to its full entry above, ordered by title. Projects that span platforms appear in more than one group. For every app by these developers, grouped by platform, category, and developer, see [Blind Apps](https://jamalmazrui.github.io/BlindApps/).
 
 ### Windows desktop applications
+- [Audir (Audio Director Manager) (Lee)](#dlee-audir)
 - [BlindFB (Bracey)](#blindfb)
 - [BlindRSS (Bracey)](#blindrss)
 - [BlindTerm (Bracey)](#blindterm)
+- [Bookmark Tree (bmt) (Lee)](#dlee-bmt)
 - [BrailleKeyboard (Adams)](#braillekeyboard)
 - [Clipman (Louis)](#clipman)
 - [FM-DX Servers Lister (Dash)](#fmdx-servers-lister)
@@ -612,6 +740,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [AVM (Accessible Virtual Machine) (Meloy)](#avm)
 - [BlindFB (Bracey)](#blindfb)
 - [BlindRSS (Bracey)](#blindrss)
+- [Bookmark Tree (bmt) (Lee)](#dlee-bmt)
 - [Clipman (Louis)](#clipman)
 - [OSARA (Teh)](#osara)
 - [Paperback (Gillespie)](#paperback)
@@ -654,11 +783,13 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [AccessKit (Campbell)](#accesskit)
 - [BlindFB (Bracey)](#blindfb)
 - [BlindRSS (Bracey)](#blindrss)
+- [Bookmark Tree (bmt) (Lee)](#dlee-bmt)
 - [BrailleBlaster (Boyer)](#brailleblaster)
 - [Clipman (Louis)](#clipman)
 - [Emacspeak (Raman)](#emacspeak)
 - [NVGT (Tupy)](#nvgt)
 - [Paperback (Gillespie)](#paperback)
+- [scrfix (Lee)](#dlee-scrfix)
 - [tdsr (Spivey)](#tdsr)
 
 ### NVDA add-ons
@@ -670,12 +801,52 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [NVDA Remote (Spivey and Toth)](#nvda-remote)
 - [soundWave (Louis)](#soundwave)
 - [StationPlaylist (Joseph Lee)](#stationplaylist)
+- [TeamSpeak NVDA Add-on (Lee)](#dlee-teamspeak-nvda)
 - [Tony's Enhancements (Malykh)](#tonys-enhancements)
+- [Tween and OpenTween Scripts (Lee)](#dlee-tween)
+- [Virtual Audio Cable NVDA Add-on (Lee)](#dlee-vac-nvda)
 - [Windows App Essentials (Joseph Lee)](#windows-app-essentials)
 
 ### JAWS scripts and extensions
+- [3CX JAWS Scripts (Lee)](#dlee-3cx)
+- [Adobe Connect JAWS Scripts (Lee)](#dlee-adobeconnect)
+- [Alexa JAWS Scripts (Lee)](#dlee-alexa)
+- [Audible JAWS Scripts (Lee)](#dlee-audible)
+- [BX, the JAWS Toolbox (Lee)](#dlee-bx)
+- [Dell Audio JAWS Scripts (Lee)](#dlee-dell)
+- [Dell Update and Dell Command Update JAWS Scripts (Lee)](#dlee-dcu)
+- [Discord JAWS Scripts (Lee)](#dlee-discord)
+- [Dixa JAWS Scripts (Lee)](#dlee-dixa)
+- [Dropbox JAWS Scripts (Lee)](#dlee-dropbox)
+- [GoldWave JAWS Scripts (Lee)](#dlee-goldwave)
+- [Ham Radio JAWS Scripts (Lee)](#dlee-ham)
+- [Hayaemon JAWS Scripts (Lee)](#dlee-hayaemon)
 - [J-Say (Hartgen)](#jsay)
+- [JAWS Alert Manager (JAM) (Lee)](#dlee-jam)
+- [JGauge (Lee)](#dlee-jgauge)
 - [Leasey (Hartgen)](#leasey)
+- [ListTbl (Lee)](#dlee-listtbl)
+- [MicroSIP JAWS Scripts (Lee)](#dlee-microsip)
+- [Microsoft Teams JAWS Scripts (Lee)](#dlee-teams)
+- [Movies and TV JAWS Scripts (Lee)](#dlee-mtv)
+- [MuseScore Scripts (Lee)](#dlee-musescore)
+- [Ramblio Scripts (Lee)](#dlee-ramblio)
+- [Rig Manager JAWS Scripts (Lee)](#dlee-rig)
+- [RS Games Scripts (Lee)](#dlee-rsgames)
+- [Slack JAWS Scripts (Lee)](#dlee-slack)
+- [TeamSpeak JAWS Scripts (Lee)](#dlee-teamspeak)
+- [TeamTalk JAWS Scripts and Tools (Lee)](#dlee-teamtalk)
+- [TeamViewer JAWS Scripts (Lee)](#dlee-teamviewer)
+- [Tween and OpenTween Scripts (Lee)](#dlee-tween)
+- [Twitch JAWS Scripts (Lee)](#dlee-twitch)
+- [Unigram JAWS Scripts (Lee)](#dlee-unigram)
+- [Virtual Audio Cable JAWS Scripts (Lee)](#dlee-vac)
+- [Visual Studio Code JAWS Scripts (Lee)](#dlee-vscode)
+- [VLC Media Player JAWS Scripts (Lee)](#dlee-vlc)
+- [Weather Watcher Live JAWS Scripts (Lee)](#dlee-ww)
+- [WhatsApp JAWS Scripts (Lee)](#dlee-whatsapp)
+- [Wireshark JAWS Scripts (Lee)](#dlee-wireshark)
+- [YouTube JAWS Scripts (Lee)](#dlee-youtube)
 - [Zoom Professional Scripts (Hartgen)](#zoom-meetings)
 
 ### Alexa and smart-display screen reading
@@ -693,6 +864,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Iridium (Polykanine)](#iridium)
 - [Liblouis (Boyer)](#liblouis)
 - [NVGT (Tupy)](#nvgt)
+- [scrfix (Lee)](#dlee-scrfix)
 - [Swift Agents (Arndt)](#swift-agent-team)
 - [urlCheck (Mazrui)](#urlcheck)
 - [wx-accessible-webview (Arndt)](#wx-accessible-webview)
