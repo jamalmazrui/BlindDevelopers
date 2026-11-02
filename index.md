@@ -99,9 +99,9 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 45 developers have 175 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
-- Nearly half the developers have one app listed, and 8 have five or more; Doug Lee leads with 43, then Andre "Onj" Louis with 25.
-- 70 apps run on Windows, the most common platform; 40 are JAWS scripts and 27 live inside NVDA.
+- Between them, the 45 developers have 180 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Nearly half the developers have one app listed, and 8 have five or more; Doug Lee leads with 47, then Andre "Onj" Louis with 25.
+- 71 apps run on Windows, the most common platform; 44 are JAWS scripts and 27 live inside NVDA.
 
 ## Developers (Alphabetical by Last Name)
 
@@ -384,11 +384,11 @@ JAWS scripts for the Dropbox app.
 #### [GoldWave JAWS Scripts](https://dlee.org/goldwave/) {#dlee-goldwave}
 JAWS scripts for the GoldWave audio editor, hosted on his site and mostly written by others.
 
-#### [Ham Radio JAWS Scripts](https://dlee.org/ham/) {#dlee-ham}
-JAWS scripts and resources for blind ham radio operators, for OpenGD77CPS, NetLogger, RT Systems RadioEngine, iaxRpt and Winlink Express.
-
 #### [Hayaemon JAWS Scripts](https://dlee.org/hayaemon/) {#dlee-hayaemon}
 JAWS scripts for the Hayaemon audio player.
+
+#### [iaxRpt JAWS Scripts](https://www.dlee.org/ham/iaxrpt/) {#dlee-iaxrpt}
+JAWS scripts for iaxRpt, the AllStar link client, first written by Frank Ibarra and now maintained by Doug Lee.
 
 #### [JAWS Alert Manager (JAM)](https://dlee.org/jam/) {#dlee-jam}
 JAWS scripts for saving, silencing at will and reviewing Windows and application alerts, with a way to examine websites without running their code.
@@ -411,6 +411,12 @@ JAWS scripts for the Movies and TV app for Windows 10.
 #### [MuseScore Scripts](https://dlee.org/musescore3/) {#dlee-musescore}
 JAWS scripts for the MuseScore music notation program.
 
+#### [NetLogger JAWS Scripts](https://www.dlee.org/ham/netlogger) {#dlee-netlogger}
+JAWS scripts for NetLogger, the amateur radio net logging program.
+
+#### [OpenGD77CPS JAWS Scripts](https://www.dlee.org/dmr/) {#dlee-dmr}
+JAWS scripts for OpenGD77CPS and compatible radio programming software, for blind ham radio operators.
+
 #### [Ramblio Scripts](https://dlee.org/ramblio/) {#dlee-ramblio}
 Scripts for the Ramblio social media platform that make audio posts quicker to skim.
 
@@ -419,6 +425,9 @@ JAWS scripts for the Rig Manager amateur radio software.
 
 #### [RS Games Scripts](https://dlee.org/rsgames/) {#dlee-rsgames}
 Scripts for RS Games that shorten messages, add keystrokes and resolve focus issues.
+
+#### [RT Systems RadioEngine JAWS Scripts](https://www.dlee.org/ham/radioEngine/) {#dlee-radioengine}
+JAWS scripts for RT Systems RadioEngine radio programming software, first published by Joseph Stephen and now maintained by Doug Lee.
 
 #### [scrfix](https://dlee.org/scrfix/) {#dlee-scrfix}
 A small C program that lets screen(1) run under the Windows Subsystem for Linux, version 1, without root.
@@ -467,6 +476,9 @@ JAWS scripts for Weather Watcher Live.
 
 #### [WhatsApp JAWS Scripts](https://dlee.org/whatsapp/) {#dlee-whatsapp}
 JAWS scripts for the WhatsApp app and website, for the version released in November 2025.
+
+#### [Winlink Express JAWS Scripts](https://dlee.org/ham/) {#dlee-winlink}
+JAWS scripts for Winlink Express, the radio email program, published with his ham radio resources.
 
 #### [Wireshark JAWS Scripts](https://dlee.org/wireshark/) {#dlee-wireshark}
 JAWS scripts for the Wireshark network analyzer, for JAWS 2018 or later.
@@ -527,13 +539,40 @@ Accessibility officer and developer who publishes accessibility and developer to
 Profiles: [GitHub](https://github.com/jamalmazrui), [LinkedIn](https://www.linkedin.com/in/jamalmazrui/).
 
 #### [2htm](https://github.com/JamalMazrui/2htm) {#app-2htm}
-Converts Word, Excel, PowerPoint, PDF, and Markdown files into accessible HTML that preserves headings, lists, tables, and image alt text.
+Converts Word, Excel, PowerPoint, PDF, and Markdown files to clean HTML or plain text that keeps the headings, lists, tables, and reading order a screen reader needs.
+
+#### [BatCon](https://github.com/JamalMazrui/BatCon) {#batcon}
+Converts many files at once between formats -- PDF to Markdown, Word to web page, Markdown to Word or PowerPoint, an inix table to Excel -- with the same conversions as the other Homer Tools, and with optional OCR and transcription on your own computer.
+
+#### [bookFido](https://github.com/JamalMazrui/bookFido) {#bookfido}
+Builds one catalog of your books across Audible, Bookshare, Goodreads, Kindle, and NLS BARD through your own signed-in Microsoft Edge, with nothing about your accounts leaving the computer.
+
+#### [DbDo](https://github.com/JamalMazrui/DbDo) {#dbdo}
+Manages SQLite, Access, Excel, and other databases from the keyboard as lists you move through cell by cell or with a dot prompt for commands and SQL.
+
+#### [EdSharp](https://github.com/JamalMazrui/EdSharp) {#edsharp}
+An editor for text and program code, in use since 2007, that speaks the result of each command.
 
 #### [extCheck](https://github.com/JamalMazrui/extCheck) {#extcheck}
-Checks the accessibility of Word, Excel, PowerPoint, and Markdown files, writing per-file CSV reports of issues found by an extensible rule registry.
+Checks Word, Excel, PowerPoint, and Markdown files, a whole folder at a time, against rules from the Microsoft Office Accessibility Checker and WCAG.
+
+#### [FileDir](https://github.com/JamalMazrui/FileDir) {#filedir}
+Manages files and folders by typed command rather than by mouse, in use since 2006.
+
+#### [HomerDev](https://github.com/JamalMazrui/HomerDev) {#homerdev}
+The Homer Development Kit of shared classes, app templates, and build and release scripts that every Homer Tool is built on.
+
+#### [HomerScribe](https://github.com/JamalMazrui/HomerScribe) {#homerscribe}
+Describes video and transcribes audio with AI models running on your own computer, returning a copy of the film with description mixed into its sound.
+
+#### [HomerView](https://github.com/JamalMazrui/HomerView) {#homerview}
+Asks Microsoft Edge directly what is on a page, reporting headings, links, accessibility problems, and the main article without the clutter, with JAWS support in progress.
 
 #### [urlCheck](https://github.com/JamalMazrui/urlCheck) {#urlcheck}
-Drives Microsoft Edge through Playwright to run axe-core on each page, producing per-page reports plus a session-level Accessibility Conformance Report against all 86 WCAG 2.2 success criteria.
+Tests a whole list of web pages unattended and drafts an Accessibility Conformance Report over all 86 WCAG 2.2 success criteria.
+
+#### [urlFido](https://github.com/JamalMazrui/urlFido) {#urlfido}
+Downloads every file of a chosen kind from a web page, driving your own Microsoft Edge so that sign-ins apply.
 
 ### J.J. Meddaugh {#dev-meddaugh}
 
@@ -819,8 +858,8 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Dixa JAWS Scripts (Lee)](#dlee-dixa)
 - [Dropbox JAWS Scripts (Lee)](#dlee-dropbox)
 - [GoldWave JAWS Scripts (Lee)](#dlee-goldwave)
-- [Ham Radio JAWS Scripts (Lee)](#dlee-ham)
 - [Hayaemon JAWS Scripts (Lee)](#dlee-hayaemon)
+- [iaxRpt JAWS Scripts (Lee)](#dlee-iaxrpt)
 - [J-Say (Hartgen)](#jsay)
 - [JAWS Alert Manager (JAM) (Lee)](#dlee-jam)
 - [JGauge (Lee)](#dlee-jgauge)
@@ -830,9 +869,12 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Microsoft Teams JAWS Scripts (Lee)](#dlee-teams)
 - [Movies and TV JAWS Scripts (Lee)](#dlee-mtv)
 - [MuseScore Scripts (Lee)](#dlee-musescore)
+- [NetLogger JAWS Scripts (Lee)](#dlee-netlogger)
+- [OpenGD77CPS JAWS Scripts (Lee)](#dlee-dmr)
 - [Ramblio Scripts (Lee)](#dlee-ramblio)
 - [Rig Manager JAWS Scripts (Lee)](#dlee-rig)
 - [RS Games Scripts (Lee)](#dlee-rsgames)
+- [RT Systems RadioEngine JAWS Scripts (Lee)](#dlee-radioengine)
 - [Slack JAWS Scripts (Lee)](#dlee-slack)
 - [TeamSpeak JAWS Scripts (Lee)](#dlee-teamspeak)
 - [TeamTalk JAWS Scripts and Tools (Lee)](#dlee-teamtalk)
@@ -845,6 +887,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [VLC Media Player JAWS Scripts (Lee)](#dlee-vlc)
 - [Weather Watcher Live JAWS Scripts (Lee)](#dlee-ww)
 - [WhatsApp JAWS Scripts (Lee)](#dlee-whatsapp)
+- [Winlink Express JAWS Scripts (Lee)](#dlee-winlink)
 - [Wireshark JAWS Scripts (Lee)](#dlee-wireshark)
 - [YouTube JAWS Scripts (Lee)](#dlee-youtube)
 - [Zoom Professional Scripts (Hartgen)](#zoom-meetings)
