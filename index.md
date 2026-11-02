@@ -1,10 +1,10 @@
 ---
 title: "Blind Developers"
-subtitle: "A Directory of 44 Creators of Apps While Blind or Low Vision"
+subtitle: "A Directory of 45 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v2.30.0"
+version: "v2.31.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -27,7 +27,7 @@ keywords:
   - open source
 ---
 
-This directory lists 44 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
+This directory lists 45 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
 
@@ -77,6 +77,7 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [Tony Malykh](#dev-malykh)
   - [Jamal Mazrui](#dev-mazrui)
   - [J.J. Meddaugh](#dev-meddaugh)
+  - [Allison Meloy](#dev-meloy)
   - [Tyler Merren](#dev-merren)
   - [Deenadayalan Moodley](#dev-moodley)
   - [Mark Morad](#dev-morad)
@@ -98,7 +99,7 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 44 developers have 131 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Between them, the 45 developers have 133 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
 - Nearly half the developers have one app listed, and 7 have five or more; Andre "Onj" Louis leads with 25.
 - 68 apps run on Windows, the most common platform, and 24 live inside NVDA.
 
@@ -416,6 +417,17 @@ Profiles: [LinkedIn](https://www.linkedin.com/in/jasonmeddaugh/), [Website](http
 #### [NFB 2026 Convention Web App](https://nfb26.atguys.com/) {#nfb26}
 An accessible web app for attendees of the 2026 National Federation of the Blind national convention in Austin, Texas.
 
+### Allison Meloy {#dev-meloy}
+
+A vocational rehabilitation professional in Oxford, Ohio, a singer, and a technology enthusiast who builds macOS apps by vibe coding with Claude, testing every step herself with VoiceOver; she spoke on the National Federation of the Blind's Access On panel on vibe coding and accessibility in October 2026.
+Profiles: [Double Tap interview](https://doubletaponair.com/blind-developer-creates-seamless-windows-on-mac-experience/), [GitHub](https://github.com/allisonfm85).
+
+#### [AVM (Accessible Virtual Machine)](https://github.com/allisonfm85/accessible-virtual-machine) {#avm}
+Installs and runs Windows 11 virtual machines on an Apple Silicon Mac entirely through VoiceOver, with no sighted help at any step, and speaks a specific, useful message for every failure; Kelly Ford has contributed to it.
+
+#### [AccessTerm](https://github.com/allisonfm85/AccessTerm) {#accessterm}
+An accessible terminal client for the Mac, made for using command-line tools such as Claude Code with VoiceOver, with a command view for typing and a transcript read line by line.
+
 ### Tyler Merren {#dev-merren}
 A blind personal trainer and five-time Paralympic goalball athlete who created an audio-first fitness app for blind and low-vision users.
 Profiles: [LinkedIn](https://www.linkedin.com/in/tyler-merren-99572366/)
@@ -596,6 +608,8 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Word Champion (Gebhard)](#word-champion)
 
 ### macOS desktop applications
+- [AccessTerm (Meloy)](#accessterm)
+- [AVM (Accessible Virtual Machine) (Meloy)](#avm)
 - [BlindFB (Bracey)](#blindfb)
 - [BlindRSS (Bracey)](#blindrss)
 - [Clipman (Louis)](#clipman)
@@ -671,6 +685,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [AccDC API (Garaventa)](#accdc)
 - [AccDC Technical Style Guide (Garaventa)](#tsg)
 - [AccessKit (Campbell)](#accesskit)
+- [AccessTerm (Meloy)](#accessterm)
 - [BlindTerm (Bracey)](#blindterm)
 - [Codestats (Gillespie)](#codestats)
 - [extCheck (Mazrui)](#extcheck)
