@@ -3,8 +3,8 @@ title: "Blind Developers"
 subtitle: "A Directory of 45 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
-date: "October 2026"
-version: "v2.32.0"
+date: "November 2026"
+version: "v2.32.1"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -294,7 +294,7 @@ A program of five word games, fifty typing lessons, a talking dictionary, and a 
 A free, MIT-licensed soundboard and playout desk for podcasts, radio, and live shows on Windows and Mac, with eighty sounds on the number row, a crossfading playlist, a processed microphone, recording, and streaming, all built keyboard-first for screen reader users.
 
 #### [NVDA Coach](https://github.com/tonygeb23/nvdaCoach-) {#nvda-coach}
-A free NVDA add-on, in the NVDA Add-on Store, that teaches screen reader commands from inside NVDA through 45 guided, hands-on lessons with spoken instructions, hints, and built-in practice forms and web pages; he built it as an assistive technology instructor for beginners and their teachers.
+A free NVDA add-on, in the NVDA Add-on Store, that teaches screen reader commands from inside NVDA through 45 guided, hands-on lessons with spoken instructions, hints, and built-in practice forms and web pages; he built it with Claude, as an assistive technology instructor, for beginners and their teachers.
 
 ### Quin Gillespie {#dev-gillespie}
 
