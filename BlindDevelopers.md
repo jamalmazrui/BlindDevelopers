@@ -1,6 +1,6 @@
 ---
 title: "Blind Developers"
-subtitle: "A Directory of 45 Creators of Apps While Blind or Low Vision"
+subtitle: "A Directory of 46 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "November 2026"
@@ -27,7 +27,7 @@ keywords:
   - open source
 ---
 
-This directory lists 45 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
+This directory lists 46 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
 
@@ -69,6 +69,7 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [Quin Gillespie](#dev-gillespie)
   - [Glen Gordon](#dev-gordon)
   - [Brian Hartgen](#dev-hartgen)
+  - [Jim Homme](#dev-homme)
   - [Meriç Karaca](#dev-karaca)
   - [Doug Lee](#dev-dlee)
   - [Joseph Lee](#dev-jlee)
@@ -99,9 +100,9 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 45 developers have 180 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
-- Nearly half the developers have one app listed, and 8 have five or more; Doug Lee leads with 47, then Andre "Onj" Louis with 25.
-- 71 apps run on Windows, the most common platform; 44 are JAWS scripts and 27 live inside NVDA.
+- Between them, the 46 developers have 183 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Nearly half the developers have one app listed, and 8 have five or more; Doug Lee leads with 47, then Andre "Onj" Louis with 26.
+- 73 apps run on Windows, the most common platform; 44 are JAWS scripts and 27 live inside NVDA.
 
 ## Developers (Alphabetical by Last Name)
 
@@ -328,6 +329,14 @@ A suite of JAWS scripts that simplifies common Windows tasks for users of all ex
 
 #### [Zoom Professional Scripts](https://hartgenconsultancy.com/zoom-professional-scripts/) {#zoom-meetings}
 JAWS scripts that make Zoom meetings easier to run and join, with sound cues for muted participants and raised hands and quick moves between the participants list and waiting room.
+
+### Jim Homme {#dev-homme}
+
+An accessibility consultant with more than 27 years in information technology, who has led teams of accessibility specialists, trained many thousands of people in digital accessibility, and works daily with JAWS, NVDA, Narrator, VoiceOver and TalkBack.
+Profiles: [VoiceAmerica guest page](https://www.voiceamerica.com/guest/59028/jim-homme), [GitHub](https://github.com/jhomme).
+
+#### [DexedAccessible](https://github.com/jhomme/dexedAccessible) {#dexedaccessible}
+An accessible fork of the open-source Dexed synthesizer, a software version of Yamaha's 1980s DX7, made usable with VoiceOver as a standalone program and inside Logic Pro, with downloads for macOS, Windows and Linux, the last two not yet tested.
 
 ### Meriç Karaca {#dev-karaca}
 
@@ -753,6 +762,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Bookmark Tree (bmt) (Lee)](#dlee-bmt)
 - [BrailleKeyboard (Adams)](#braillekeyboard)
 - [Clipman (Louis)](#clipman)
+- [DexedAccessible (Homme)](#dexedaccessible)
 - [FM-DX Servers Lister (Dash)](#fmdx-servers-lister)
 - [JAWS (Gordon)](#jaws)
 - [LWorks audio games (Erven)](#lworks)
@@ -781,6 +791,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [BlindRSS (Bracey)](#blindrss)
 - [Bookmark Tree (bmt) (Lee)](#dlee-bmt)
 - [Clipman (Louis)](#clipman)
+- [DexedAccessible (Homme)](#dexedaccessible)
 - [OSARA (Teh)](#osara)
 - [Paperback (Gillespie)](#paperback)
 - [Perspective Intelligence (Doise)](#perspective-intelligence)
@@ -825,6 +836,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Bookmark Tree (bmt) (Lee)](#dlee-bmt)
 - [BrailleBlaster (Boyer)](#brailleblaster)
 - [Clipman (Louis)](#clipman)
+- [DexedAccessible (Homme)](#dexedaccessible)
 - [Emacspeak (Raman)](#emacspeak)
 - [NVGT (Tupy)](#nvgt)
 - [Paperback (Gillespie)](#paperback)
