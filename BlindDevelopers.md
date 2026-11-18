@@ -1,10 +1,10 @@
 ---
 title: "Blind Developers"
-subtitle: "A Directory of 46 Creators of Apps While Blind or Low Vision"
+subtitle: "A Directory of 47 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "November 2026"
-version: "v2.32.1"
+version: "v2.33.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -27,7 +27,7 @@ keywords:
   - open source
 ---
 
-This directory lists 46 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
+This directory lists 47 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
 
@@ -70,6 +70,7 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [Glen Gordon](#dev-gordon)
   - [Brian Hartgen](#dev-hartgen)
   - [Jim Homme](#dev-homme)
+  - [Elizabeth Huffman](#dev-huffman)
   - [Meriç Karaca](#dev-karaca)
   - [Doug Lee](#dev-dlee)
   - [Joseph Lee](#dev-jlee)
@@ -100,9 +101,9 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 46 developers have 183 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
-- Nearly half the developers have one app listed, and 8 have five or more; Doug Lee leads with 47, then Andre "Onj" Louis with 26.
-- 73 apps run on Windows, the most common platform; 44 are JAWS scripts and 27 live inside NVDA.
+- Between them, the 47 developers have 192 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Nearly half the developers have one app listed, and 9 have five or more; Doug Lee leads with 47, then Andre "Onj" Louis with 26.
+- 77 apps run on Windows, the most common platform; 44 are JAWS scripts and 27 live inside NVDA.
 
 ## Developers (Alphabetical by Last Name)
 
@@ -337,6 +338,17 @@ Profiles: [VoiceAmerica guest page](https://www.voiceamerica.com/guest/59028/jim
 
 #### [DexedAccessible](https://github.com/jhomme/dexedAccessible) {#dexedaccessible}
 An accessible fork of the open-source Dexed synthesizer, a software version of Yamaha's 1980s DX7, made usable with VoiceOver as a standalone program and inside Logic Pro, with downloads for macOS, Windows and Linux, the last two not yet tested.
+
+### Elizabeth Huffman {#dev-huffman}
+
+A blind accessibility specialist and developer in training who builds her apps with ChatGPT as a collaborator.
+Profiles: [GitHub](https://github.com/EHuffman1706).
+
+#### [Your Medication Station](https://ehuffman1706.github.io/YourMedicationStation/) {#your-medication-station}
+A screen-reader-friendly web page for recording medications for people and pets, with dosage, frequency, reminder times and notes.
+
+#### [Budget Tracker](https://ehuffman1706.github.io/Budget-App-HTML/) {#budget-tracker}
+A web page for tracking income and expenses, with dates received, due and paid, and a running balance.
 
 ### Meriç Karaca {#dev-karaca}
 
@@ -709,6 +721,9 @@ Co-created the NVDA screen reader; see the full entry under [NVDA](#nvda).
 #### [OSARA](https://github.com/jcsteh/osara) {#osara}
 Makes the REAPER digital-audio workstation accessible on Windows and macOS.
 
+#### [ReaKontrol](https://reakontrol.jantrid.net/) {#reakontrol}
+A REAPER extension that integrates Native Instruments Komplete Kontrol keyboards with REAPER on Windows and Mac, and reports their changes to screen reader users.
+
 ### Carter Temm {#dev-temm}
 
 Accessibility consultant and software developer focused on AI-assisted tooling.
@@ -934,6 +949,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 
 ### Web services and online tools
 - [ART (Breitenfeldt)](#art)
+- [Budget Tracker (Huffman)](#budget-tracker)
 - [CAPTCHA Be Gone (Toth)](#captcha-be-gone)
 - [FRAME PDF Studio (Breitenfeldt)](#frame-pdf-studio)
 - [GLOW Accessibility Toolkit (Bishop)](#glow)
@@ -941,6 +957,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Start Testing (Arndt)](#start-testing)
 - [TifloAcosta App (Acosta)](#tifloacosta-app)
 - [Vision AI Assistant (Lovely)](#vision-ai-assistant)
+- [Your Medication Station (Huffman)](#your-medication-station)
 
 ### Audio games
 - [LWorks audio games (Erven)](#lworks)
@@ -964,3 +981,4 @@ Each project links back to its full entry above, ordered by title. Projects that
 
 ### Audio-production extensions (REAPER)
 - [OSARA (Teh)](#osara)
+- [ReaKontrol (Teh)](#reakontrol)
