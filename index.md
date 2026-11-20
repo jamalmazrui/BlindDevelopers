@@ -1,10 +1,10 @@
 ---
 title: "Blind Developers"
-subtitle: "A Directory of 47 Creators of Apps While Blind or Low Vision"
+subtitle: "A Directory of 48 Creators of Apps While Blind or Low Vision"
 description: "A directory of software developers who are blind or have low vision, each with up to three of their own apps and where to get them."
 author: "Jamal Mazrui"
 date: "November 2026"
-version: "v2.33.0"
+version: "v2.34.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -27,7 +27,7 @@ keywords:
   - open source
 ---
 
-This directory lists 47 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
+This directory lists 48 developers who are blind or have low vision, along with software each has built. It is meant as a resource for aspiring blind developers and as a way to find and reach the developers listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Apps](https://jamalmazrui.github.io/BlindApps/), turns this one around: it lists every qualifying app by these developers, each with its platform, its technology, and any AI involved, plus statistics on the whole collection.
 
@@ -74,6 +74,7 @@ This directory is English-language in scope: it relies on documentation, code, a
   - [Meriç Karaca](#dev-karaca)
   - [Doug Lee](#dev-dlee)
   - [Joseph Lee](#dev-jlee)
+  - [Luke Leiby](#dev-leiby)
   - [Andre "Onj" Louis](#dev-louis)
   - [Stephen Lovely](#dev-lovely)
   - [Tony Malykh](#dev-malykh)
@@ -101,9 +102,9 @@ This directory is English-language in scope: it relies on documentation, code, a
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 47 developers have 192 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
+- Between them, the 48 developers have 196 apps, all listed in [Blind Apps](https://jamalmazrui.github.io/BlindApps/); some apps are the work of more than one developer.
 - Nearly half the developers have one app listed, and 9 have five or more; Doug Lee leads with 47, then Andre "Onj" Louis with 26.
-- 77 apps run on Windows, the most common platform; 44 are JAWS scripts and 27 live inside NVDA.
+- 81 apps run on Windows, the most common platform; 44 are JAWS scripts and 27 live inside NVDA.
 
 ## Developers (Alphabetical by Last Name)
 
@@ -521,6 +522,20 @@ Gives NVDA users accessible control of StationPlaylist broadcasting software.
 #### [Windows App Essentials](https://github.com/josephsl/wintenApps) {#windows-app-essentials}
 Improves NVDA access to built-in Windows apps.
 
+### Luke Leiby {#dev-leiby}
+
+A full-stack software engineer with a computer science degree from the University of Pittsburgh who tests apps for screen reader accessibility, serves on Pennsylvania's State Board of Vocational Rehabilitation, and spoke on the National Federation of the Blind's Access On panel on vibe coding and accessibility in October 2026.
+Profiles: [GitHub](https://github.com/leibylucw), [LinkedIn](https://www.linkedin.com/in/leibylucw/), [Website](https://lukeleiby.com/).
+
+#### [HearthstoneAccess Patcher](https://github.com/leibylucw/hearthstone-access-patcher/releases) {#hearthstone-patcher}
+Downloads the HearthstoneAccess Community Patch and installs it into Hearthstone, so blind players can set up and update the accessible version of the card game on their own.
+
+#### [SpotKeys](https://github.com/leibylucw/spot-keys) {#spotkeys}
+Global keyboard shortcuts that control Spotify and speak the current track's details through the screen reader, without leaving the window you are working in.
+
+#### [Time Zone Teller](https://github.com/leibylucw/time-zone-teller) {#time-zone-teller}
+Speaks the current time in several time zones through the screen reader at a single keyboard shortcut.
+
 ### Andre "Onj" Louis {#dev-louis}
 
 A blind musician, producer, and accessibility advocate from London who builds accessibility-first tools for Windows, macOS, NVDA, and music hardware; he was the first blind person to beta-test Native Instruments' Komplete Kontrol accessibility features.
@@ -779,6 +794,7 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [Clipman (Louis)](#clipman)
 - [DexedAccessible (Homme)](#dexedaccessible)
 - [FM-DX Servers Lister (Dash)](#fmdx-servers-lister)
+- [HearthstoneAccess Patcher (Leiby)](#hearthstone-patcher)
 - [JAWS (Gordon)](#jaws)
 - [LWorks audio games (Erven)](#lworks)
 - [Mini Load (Dash)](#mini-load)
@@ -794,9 +810,11 @@ Each project links back to its full entry above, ordered by title. Projects that
 - [ScanMaster (Moodley)](#scanmaster)
 - [Sensor Readout (Louis)](#sensor-readout)
 - [SIC! (Polykanine)](#sic)
+- [SpotKeys (Leiby)](#spotkeys)
 - [Survive the Wild (Tupy)](#survive-the-wild)
 - [TD Sound Manager (Dash)](#td-sound-manager)
 - [TG Drop Deck (Gebhard)](#tg-drop-deck)
+- [Time Zone Teller (Leiby)](#time-zone-teller)
 - [Word Champion (Gebhard)](#word-champion)
 
 ### macOS desktop applications
